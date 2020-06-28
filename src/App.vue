@@ -1,8 +1,6 @@
 <template>
   <div id="app">
-        <header>
-              傻狗
-        </header>
+          在dev分支上进行开发
     <router-view/>
   </div>
 </template> 
